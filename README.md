@@ -22,9 +22,13 @@ Deployment ID: 'AKfycbxP54-7IgPkaEk3ob_5HTCSKEml4orhxQlG1d59IjMDVd0ZGB7aeg-GqQqe
 4. If authorization confirmation is displayed, press [AUTHORIZE].
 
 5. Input all the required information and press [Add].
+
 a
+
 ![](/images/04.png)
+
 b
+
 ![](/images/05.png)
 
 6. If the following confirmation is diplayed, click [ADD TO REPORT].
