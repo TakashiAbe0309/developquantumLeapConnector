@@ -1,5 +1,4 @@
-# FIWARE QuantumLea
-Connector for Google Data Studio
+# FIWARE QuantumLeap Connector Connector for Google Data Studio
 
 The QuantumLeap Connector is a connector for integrating Google Data Studio and FIWARE QuantumLeap.
 
@@ -13,9 +12,9 @@ The QuantumLeap Connector is a connector for integrating Google Data Studio and 
 
 ![](/images/02.png)
 
-3. Enter the Deployment ID below and press [VALIDATE], Select [FIWARE Orion Connector].
+3. Enter the Deployment ID below and press [VALIDATE], Select [FIWARE QuantumLeap Connector].
 
-Deployment ID: 'AKfycbxP54-7IgPkaEk3ob_5HTCSKEml4orhxQlG1d59IjMDVd0ZGB7aeg-GqQqeeh_Kqhl5'
+Deployment ID: `AKfycbxP54-7IgPkaEk3ob_5HTCSKEml4orhxQlG1d59IjMDVd0ZGB7aeg-GqQqeeh_Kqhl5`
 
 ![](/images/03.png)
 
@@ -23,11 +22,11 @@ Deployment ID: 'AKfycbxP54-7IgPkaEk3ob_5HTCSKEml4orhxQlG1d59IjMDVd0ZGB7aeg-GqQqe
 
 5. Input all the required information and press [Add].
 
-a
+Enter information for connecting QuantumLeap
 
 ![](/images/04.png)
 
-b
+Enter the attribute name according the attribute type
 
 ![](/images/05.png)
 
