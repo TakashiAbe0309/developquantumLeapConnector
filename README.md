@@ -1,4 +1,4 @@
-# FIWARE QuantumLeap Connector Connector for Google Data Studio
+# FIWARE QuantumLeap Connector for Google Data Studio
 
 The QuantumLeap Connector is a connector for integrating Google Data Studio and FIWARE QuantumLeap.
 
